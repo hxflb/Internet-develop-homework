@@ -1,0 +1,11 @@
+backend/tmp/
+frontend/node_modules/
+frontend/dist/
+.env
+uploads/
+data/
+*.db
+__pycache__/
+.venv/
+venv/
+.DS_Store
